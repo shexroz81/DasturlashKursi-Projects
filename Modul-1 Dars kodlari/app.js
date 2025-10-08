@@ -292,6 +292,14 @@
 // Yuzaki Clonlash va Spread
 // OOP Asoslari
 
+
+
+
+// Dom bilan ishlash
+
+
+
+
 // let button1 = document.querySelector("#button-1");
 // let item1 = document.querySelector("#item");
 // let clickCount = 0;

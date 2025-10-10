@@ -1,0 +1,84 @@
+#button-1 {
+    background-color: red;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    position: absolute;
+    left: 25%;
+    color: white;
+}
+
+#item {
+    background-color: blue;
+    height: 150px;
+    width: 200px;
+    border-radius: 10px;
+    position: absolute;
+    left: 25%;
+    top: 10%;
+    color: white;
+}
+
+.item {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#button-2 {
+    background-color: yellow;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    position: absolute;
+    left: 45%;
+    color: black;
+}
+
+#item2 {
+    background-color: rgb(255, 25, 0);
+    height: 150px;
+    width: 200px;
+    border-radius: 10px;
+    position: absolute;
+    left: 45%;
+    top: 10%;
+    color: white;
+}
+
+
+
+#btn-1 {
+    background-color: red;
+    position: absolute;
+    left: 60%;
+    color: wheat;
+}
+
+#btn-2 {
+    background-color: red;
+    position: absolute;
+    left: 72%;
+    color: wheat;
+}
+
+#btn-3 {
+    background-color: red;
+    position: absolute;
+    left: 80%;
+    color: wheat;
+}
+
+
+#changer {
+    background-color: green;
+    height: 150px;
+    width: 200px;
+    border-radius: 10px;
+    position: absolute;
+    left: 70%;
+    top: 10%;
+    color: white;
+}
